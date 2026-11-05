@@ -1,0 +1,12 @@
+nama = input("nama anda: ")
+umur = input("berapa umur anda: ")
+alamat = input("dimana alamat anda: ")
+hobi = input("hobi anda: ")
+no_hp = input("berapa nomer hp anda: ")
+idol = input("idol favorit anda: ")
+makanan = input("apa makanan favorit anda: ")
+warna = input("warna favorit anda: ")
+series = input("series favorit anda: ")
+lagu = input("lagu favorit anda: ")
+
+print(f"nama saya {nama}, umur saya {umur}, alamat saya berada di {alamat}, hobi saya {hobi}, no_hp saya {no_hp}, idol favorit saya {idol}, makanan favorit saya {makanan}, warna yang saya suka {warna}, series yang saya suka {series}, lagu yang saya sukai adalah {lagu}")
